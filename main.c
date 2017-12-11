@@ -1,10 +1,9 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 #include <stdlib.h>
 
 int main(int argc, char *argv[])
 {
   FILE *fp;
-  int i=0;
   char ch;
   char it[2];
   char chr[256];
